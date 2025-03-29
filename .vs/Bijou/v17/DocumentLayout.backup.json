@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\files\\personal projects\\coding\\winforms\\Bijou\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFCC1E6-45A8-45F1-8303-F98E15CF871D}|Bijou.csproj|d:\\files\\personal projects\\coding\\winforms\\bijou\\notewindow.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBFCC1E6-45A8-45F1-8303-F98E15CF871D}|Bijou.csproj|solutionrelative:notewindow.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFCC1E6-45A8-45F1-8303-F98E15CF871D}|Bijou.csproj|D:\\files\\personal projects\\coding\\winforms\\Bijou\\notewindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DBFCC1E6-45A8-45F1-8303-F98E15CF871D}|Bijou.csproj|solutionrelative:notewindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFCC1E6-45A8-45F1-8303-F98E15CF871D}|Bijou.csproj|d:\\files\\personal projects\\coding\\winforms\\bijou\\bijou.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DBFCC1E6-45A8-45F1-8303-F98E15CF871D}|Bijou.csproj|solutionrelative:bijou.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFCC1E6-45A8-45F1-8303-F98E15CF871D}|Bijou.csproj|d:\\files\\personal projects\\coding\\winforms\\bijou\\bijou.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{DBFCC1E6-45A8-45F1-8303-F98E15CF871D}|Bijou.csproj|solutionrelative:bijou.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bijou.csproj",
+              "DocumentMoniker": "D:\\files\\personal projects\\coding\\winforms\\Bijou\\Bijou.csproj",
+              "RelativeDocumentMoniker": "Bijou.csproj",
+              "ToolTip": "D:\\files\\personal projects\\coding\\winforms\\Bijou\\Bijou.csproj",
+              "RelativeToolTip": "Bijou.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-21T17:34:18.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NoteWindow.cs [Design]",
+              "DocumentMoniker": "D:\\files\\personal projects\\coding\\winforms\\Bijou\\NoteWindow.cs",
+              "RelativeDocumentMoniker": "NoteWindow.cs",
+              "ToolTip": "D:\\files\\personal projects\\coding\\winforms\\Bijou\\NoteWindow.cs [Design]",
+              "RelativeToolTip": "NoteWindow.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T17:33:44.361Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NoteWindow.Designer.cs",
+              "DocumentMoniker": "D:\\files\\personal projects\\coding\\winforms\\Bijou\\NoteWindow.Designer.cs",
+              "RelativeDocumentMoniker": "NoteWindow.Designer.cs",
+              "ToolTip": "D:\\files\\personal projects\\coding\\winforms\\Bijou\\NoteWindow.Designer.cs*",
+              "RelativeToolTip": "NoteWindow.Designer.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T17:33:07.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bijou",
+              "DocumentMoniker": "D:\\files\\personal projects\\coding\\winforms\\Bijou\\Bijou.csproj",
+              "RelativeDocumentMoniker": "Bijou.csproj",
+              "ToolTip": "D:\\files\\personal projects\\coding\\winforms\\Bijou\\Bijou.csproj",
+              "RelativeToolTip": "Bijou.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-21T02:47:52.141Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

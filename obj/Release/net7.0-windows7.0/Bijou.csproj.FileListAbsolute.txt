@@ -1,0 +1,17 @@
+D:\files\personal projects\coding\winforms\Bijou\bin\Release\net7.0-windows7.0\Bijou.exe
+D:\files\personal projects\coding\winforms\Bijou\bin\Release\net7.0-windows7.0\Bijou.dll.config
+D:\files\personal projects\coding\winforms\Bijou\bin\Release\net7.0-windows7.0\Bijou.deps.json
+D:\files\personal projects\coding\winforms\Bijou\bin\Release\net7.0-windows7.0\Bijou.runtimeconfig.json
+D:\files\personal projects\coding\winforms\Bijou\bin\Release\net7.0-windows7.0\Bijou.dll
+D:\files\personal projects\coding\winforms\Bijou\bin\Release\net7.0-windows7.0\Bijou.pdb
+D:\files\personal projects\coding\winforms\Bijou\obj\Release\net7.0-windows7.0\Bijou.NoteWindow.resources
+D:\files\personal projects\coding\winforms\Bijou\obj\Release\net7.0-windows7.0\Bijou.csproj.GenerateResource.cache
+D:\files\personal projects\coding\winforms\Bijou\obj\Release\net7.0-windows7.0\Bijou.GeneratedMSBuildEditorConfig.editorconfig
+D:\files\personal projects\coding\winforms\Bijou\obj\Release\net7.0-windows7.0\Bijou.AssemblyInfoInputs.cache
+D:\files\personal projects\coding\winforms\Bijou\obj\Release\net7.0-windows7.0\Bijou.AssemblyInfo.cs
+D:\files\personal projects\coding\winforms\Bijou\obj\Release\net7.0-windows7.0\Bijou.csproj.CoreCompileInputs.cache
+D:\files\personal projects\coding\winforms\Bijou\obj\Release\net7.0-windows7.0\Bijou.dll
+D:\files\personal projects\coding\winforms\Bijou\obj\Release\net7.0-windows7.0\refint\Bijou.dll
+D:\files\personal projects\coding\winforms\Bijou\obj\Release\net7.0-windows7.0\Bijou.pdb
+D:\files\personal projects\coding\winforms\Bijou\obj\Release\net7.0-windows7.0\Bijou.genruntimeconfig.cache
+D:\files\personal projects\coding\winforms\Bijou\obj\Release\net7.0-windows7.0\ref\Bijou.dll
